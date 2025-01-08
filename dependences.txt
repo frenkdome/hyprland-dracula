@@ -1,5 +1,0 @@
-kitty
-waybar
-dunst
-swaybg
-grim
